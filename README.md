@@ -1,4 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/d3rspttrk2aoc5vv?svg=true)](https://ci.appveyor.com/project/OksanaBannova/anim)
 
+[GitHub Pages](https://oksanabannova.github.io/anim/)
 
 
 # Домашнее задание к занятию "9. Анимации и CSS"
