@@ -1,2 +1,2 @@
-import "./css/style.css";
-import "./js/app";
+export {css} from "./css/style.css";
+export {js} from "./js/app";
